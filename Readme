@@ -1,17 +1,39 @@
-# 👋 Olá! Eu sou o Kaleo Martins
+# Kaleo Martins
 
-Sou Analista de Qualidade e estudante de Ciência de Dados com forte base em Python, SQL e Estatística. Tenho interesse especial por projetos de dados, automações, RPG narrativo e desafios analíticos.
+Cientista de Dados em formação, focado em análise de risco, detecção de fraude e machine learning aplicado a finanças.
 
-## 🚀 Projetos em destaque
+Graduado em Ciência de Dados pela Estácio. Certificações em Python e Data Science pela Harvard Online.
+Atualmente trabalhando com controle de qualidade e análise de dados na MN Tecidos — onde identificar padrões e desvios virou rotina antes de virar código.
 
-### 🧠 RPG PUZZLE (Python)
-Versão interativa de um puzzel com temática medieval fantástica, feito para sessões de RPG.  
-🔗 [Veja o código](https://github.com/KaleoMartins/RPG-PUZZEL/blob/main/README.md)
+---
 
-### 🎓 CS50P - Harvard
-Resolução completa dos desafios do curso _CS50’s Introduction to Programming with Python_ da Universidade de Harvard.  
-🔗 [Repositório do curso](https://github.com/KaleoMartins/CS50P)
+## Projetos
 
-## 🌐 Meus contatos
-- [LinkedIn](https://www.linkedin.com/in/kaleo-martins-4b627632b) 
-- Email: Kaleomartins1@gmail.com
+### 🔍 [Fraud Detection System — CNP Transactions](https://github.com/KaleoMartins/fraud-detection-cnp)
+Sistema de detecção de fraude em ambiente de cartão não-presente combinando motor de regras determinísticas com XGBoost.
+Análise de 3.199 transações reais · 6 padrões de fraude identificados · 82.1% recall · R$488k em fraude bloqueada
+
+`Python` `XGBoost` `Scikit-learn` `Pandas` `Matplotlib`
+
+---
+
+## Stack
+
+```python
+languages  = ["Python", "SQL"]
+libraries  = ["Pandas", "NumPy", "Scikit-learn", "XGBoost", "Matplotlib", "Seaborn"]
+focus      = ["Fraud Detection", "Risk Analytics", "Machine Learning", "Data Analysis"]
+```
+
+---
+
+## Certificações
+
+- Programming with Python — Harvard Online (ago/2025)
+- Data Science with Python — Harvard Online (em andamento)
+- SQL — Davidson College
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaleo_Martins-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/kaleo-martins)
+[![GitHub](https://img.shields.io/badge/GitHub-KaleoMartins-181717?style=flat&logo=github)](https://github.com/KaleoMartins)
